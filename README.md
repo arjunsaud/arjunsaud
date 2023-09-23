@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.arjunsaud.com.np](www.arjunsaud.com.np)
 
-- 💬 Ask me about **NodeJs, NestJs, MongoDb, ReactJs, NextJs**
+- 💬 Ask me about **NodeJs, NestJs, MongoDb, ReactJs, NextJs, MySQL**
 
 - 📫 How to reach me **arjundk01@gmail.com**
 

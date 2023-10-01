@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Saud</h1>
 <h3 align="center">A Full Stack developer from Nepal and I am passionate about software development and coding and always learning new things and playing out with new tech stuffs.</h3>
 
-- 🌱 I’m currently learning **NestJs, Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [www.arjunsaud.com.np](www.arjunsaud.com.np)
 
